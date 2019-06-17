@@ -2,4 +2,4 @@
 
 CIHE: Chicken Invaders Heba Edition 
 
-Simon Says Kitty Clone
+Simon Says Kitty Klone
