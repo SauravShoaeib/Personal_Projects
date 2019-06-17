@@ -1,0 +1,12 @@
+.root
+{
+	-fx-background-image: url(AWWW.jpg);
+}
+
+.button
+{
+    -fx-background-color: linear-gradient(#DC143C, #FF1493);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+}
